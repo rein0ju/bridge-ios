@@ -32,15 +32,25 @@ Built by <strong>Raein Seo</strong>
   <br clear="left"/>
 </div>
 
-### Bridge simplifies the onboarding experience for international students in the U.S.
+## Bridge iOS Prototype
+Bridge is a mobile onboarding and campus life app designed for international students in the U.S.
 
-<br>
+The app helps students manage school life in one place, with anonymous community posts, campus resources, events, timetables, and a GPA calculator.
 
-## Case Study
+## Key Features
+- Community
+- Timetable
+- Course Information
+- GPA Calculator
+- Campus Resources
+- Profile
 
-→ [View Full UX Case Study](case-study.md)
+## Tech Stack
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<br>
 
 ## Bridge
 
