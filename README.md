@@ -28,7 +28,7 @@ Built by <strong>Raein Seo</strong>
 </blockquote>
 
 <div>
-   <img src="assets/Bridge.png" width="1000" align="left">    
+   <img src="assets/App Prototype.png" width="1000" align="left">    
   <br clear="left"/>
 </div>
 
