@@ -45,20 +45,20 @@ The app helps students manage school life in one place, with anonymous community
 
 ## Bridge
 
-<table>
-  <tr>
-    <td><img src="assets/1.png" width="265"></td>
-    <td><img src="assets/2.png" width="265"></td>
-    <td><img src="assets/3.png" width="265"></td>
-  </tr>
-  <tr>
-    <td><img src="assets/4.png" width="265"></td>
-    <td><img src="assets/8.png" width="265"></td>
-    <td><img src="assets/9.png" width="265"></td>
-  </tr>
-  <tr>
-    <td><img src="assets/5.png" width="265"></td>
-    <td><img src="assets/6.png" width="265"></td>
-    <td><img src="assets/7.png" width="265"></td>
-  </tr>
-</table>
+<p>
+  <img src="assets/1.png" width="230">
+  <img src="assets/2.png" width="230">
+  <img src="assets/3.png" width="230">
+</p>
+
+<p>
+  <img src="assets/4.png" width="230">
+  <img src="assets/5.png" width="230">
+  <img src="assets/6.png" width="230">
+</p>
+
+<p>
+  <img src="assets/7.png" width="230">
+  <img src="assets/8.png" width="230">
+  <img src="assets/9.png" width="230">
+</p>
