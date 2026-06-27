@@ -45,46 +45,20 @@ The app helps students manage school life in one place, with anonymous community
 
 ## Bridge
 
-<div>
-   <img src="assets/1.png" width="265" align="left">    
-</div>
-
-<div>
-   <img src="assets/2.png" width="265"align="left">    
-</div>
-
-<div>
-   <img src="assets/3.png" width="265" align="center">    
-</div>
-
-<div>
-   <img src="assets/4.png" width="265" align="left">    
-</div>
-
-<div>
-   <img src="assets/5.png" width="265" align="left">    
-</div>
-
-<div>
-   <img src="assets/6.png" width="265" align="center">    
-</div>
-
-<div>
-   <img src="assets/7.png" width="265" align="left">    
-</div>
-
-<div>
-   <img src="assets/8.png" width="265"align="left">    
-</div>
-
-<div>
-   <img src="assets/9.png" width="265" align="center">    
-</div>
-
-<div>
-   <img src="assets/10.png" width="265" align="left">    
-</div>
-
-<div>
-   <img src="assets/11.png" width="265"align="left">    
-</div>
+<table>
+  <tr>
+    <td><img src="assets/1.png" width="265"></td>
+    <td><img src="assets/2.png" width="265"></td>
+    <td><img src="assets/3.png" width="265"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/4.png" width="265"></td>
+    <td><img src="assets/8.png" width="265"></td>
+    <td><img src="assets/9.png" width="265"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/5.png" width="265"></td>
+    <td><img src="assets/6.png" width="265"></td>
+    <td><img src="assets/7.png" width="265"></td>
+  </tr>
+</table>
