@@ -68,3 +68,23 @@ The app helps students manage school life in one place, with anonymous community
 <div>
    <img src="assets/6.png" width="265" align="center">    
 </div>
+
+<div>
+   <img src="assets/1.png" width="265" align="left">    
+</div>
+
+<div>
+   <img src="assets/2.png" width="265"align="left">    
+</div>
+
+<div>
+   <img src="assets/3.png" width="265" align="center">    
+</div>
+
+<div>
+   <img src="assets/1.png" width="265" align="left">    
+</div>
+
+<div>
+   <img src="assets/2.png" width="265"align="left">    
+</div>
